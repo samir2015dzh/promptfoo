@@ -215,7 +215,7 @@
     "@types/supertest": "^7.0.0",
     "@types/ws": "^8.18.1",
     "@vitest/coverage-v8": "^5.0.2",
-    "block-no-verify": "^1.2.0",
+    "block-no-verify": "^1.4.6",
     "concurrently": "^10.0.0",
     "drizzle-kit": "^0.31.11",
     "husky": "^9.1.7",
